@@ -4,13 +4,28 @@
       "email": "user@email.com",
       "password": "$2a$10$K6.yB5cujxVb6o2SGSVYdO2g6MeT9zt1MFYv6QjxBILXKC4WysZFu",
       "id": 1
+    },
+    {
+      "email": "dudung@gmail.com",
+      "password": "$2a$10$1DiU2nBkTtFH47fYOUm1reC2s78SWVCIvStWS6XdVrnD5zTfOJUHm",
+      "id": 2
+    },
+    {
+      "email": "dadang@gmail.com",
+      "password": "$2a$10$H1rno/LAxg9QTN4Zyu/6ze4L0Qi4aPqUTMYD4eur7PVuBf9wiNJmS",
+      "id": 3
     }
   ],
   "posts": [
     {
-      "title": "title",
-      "author": "author",
-      "id": 1
+      "title": "Redux",
+      "author": "Bill Gates",
+      "id": 3
+    },
+    {
+      "title": "React",
+      "author": "Mark Zuckerberg",
+      "id": 4
     }
   ],
   "tasks": []
